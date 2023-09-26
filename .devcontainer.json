@@ -1,0 +1,10 @@
+{
+  "name": "Zilch Bot",
+  "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+  "postAttachCommand": "./connect --welcome",
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["run.sh", "build.sh"]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "name": "electrobat",
+  "avatar": "eGaaapXmSZ3VE5jaa",
+  "preferredColor": "forest",
+  "language": null,
+  "game": "tic-tac-toe",
+  "run": "./run.sh",
+  "build": "./build.sh"
+}
